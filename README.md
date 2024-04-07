@@ -1,5 +1,5 @@
 # 4X4 Router
-Verification of 4X4 router in System Verilog. The main intension of this repository is to document the verification plan and test case implementation in System Verilog testbench environment.
+Verification of 4X4 router in System Verilog.The main intension of this repository is to document the verification plan and test case implementation in System Verilog testbench environment.
 
 <details>
   <summary> Defining the black box design of Router 4X4 </summary>
