@@ -58,13 +58,15 @@ Verification of 4X4 router in System Verilog. The main intension of this reposit
 
   #### Test Plan
 
+  ![image](https://github.com/lmadem/4X4-Router/assets/93139766/9c468ab8-d5bf-42e0-affd-741b93cbb33a)
+
 
 </details>
 
 <details>
   <summary> Verification Results </summary>
 
-   <li> Built a robust verification environment in System Verilog and implemented all the testcases as per the testplan. The SV testbench verification environment consists of header class, packet class, generator class, multiple drivers, Monitors, and scoreboard class, environment class, base_test class, test classes, program block, top module, interface and the design </li>
+   <li> Built a robust verification environment in System Verilog and implemented all the testcases as per the testplan. The SV testbench verification environment consists of header class, packet class, generator class, multiple drivers, multiple monitors, and scoreboard class, environment class, base_test class, test classes, program block, top module, interface and the design </li>
 
    <li> This environment will be able to drive one testcase per simulation </li>
 
