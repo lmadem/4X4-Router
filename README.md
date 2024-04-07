@@ -71,8 +71,9 @@ Verification of 4X4 router in System Verilog. The main intension of this reposit
    <li> This environment will be able to drive one testcase per simulation </li>
 
    #### Test Plan Status
-  
 
+   ![image](https://github.com/lmadem/4X4-Router/assets/93139766/f6f0d3ad-d63c-4dca-bdd0-048a99175c98)
+   
 </details>
 <details>
   <summary> EDA Results </summary>
