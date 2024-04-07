@@ -80,46 +80,69 @@ Verification of 4X4 router in System Verilog. The main intension of this reposit
   
    #### Base_Test EDA Result
 
+   ![image](https://github.com/lmadem/4X4-Router/assets/93139766/3679733f-7ce4-456f-990a-9df4a0c7412d)
 
+   ![image](https://github.com/lmadem/4X4-Router/assets/93139766/79482adf-5ab9-4caf-ab01-50e0a2bbf82f)
 
    #### New_Test1 EDA Result
 
+   ![image](https://github.com/lmadem/4X4-Router/assets/93139766/d060af56-b983-4007-a972-da76aa25718d)
+
+   ![image](https://github.com/lmadem/4X4-Router/assets/93139766/b597386f-5a43-4749-8cf5-330a3b10b949)
 
    #### New_Test2 EDA Result
 
+   ![image](https://github.com/lmadem/4X4-Router/assets/93139766/c81d0ee9-af06-439f-85c1-a0814ffb2868)
 
+   ![image](https://github.com/lmadem/4X4-Router/assets/93139766/3d271b9e-f343-4553-9926-ae9e9649bd76)
 
    #### New_Test3 EDA Result
 
- 
+   ![image](https://github.com/lmadem/4X4-Router/assets/93139766/a51403d4-4c17-4874-b6ba-64b7f13856a4)
+
+   ![image](https://github.com/lmadem/4X4-Router/assets/93139766/3e8031d1-7556-41cf-9654-ed20ccee8fac)
 
    #### New_Test4 EDA Result
 
+   ![image](https://github.com/lmadem/4X4-Router/assets/93139766/8b46665e-b655-48fe-80a2-b6fa1e6b9b4d)
 
+   ![image](https://github.com/lmadem/4X4-Router/assets/93139766/e2198683-0d59-46b2-bc57-c6ebf3fe719b)
 
    #### New_Test5 EDA Result
 
+   ![image](https://github.com/lmadem/4X4-Router/assets/93139766/4c7165ca-cd9f-494b-8be1-0b3a76e21e05)
 
+   ![image](https://github.com/lmadem/4X4-Router/assets/93139766/b54b8f14-fae4-4f62-93aa-b76a6fff584c)
 
    #### New_Test6 EDA Result
 
+   ![image](https://github.com/lmadem/4X4-Router/assets/93139766/cf6238d5-cc91-444f-b177-18a6af55c8ec)
 
+   ![image](https://github.com/lmadem/4X4-Router/assets/93139766/04679c48-c3e7-4f93-b77c-a240a5f4efeb)
 
    #### New_Test7 EDA Result
 
+   ![image](https://github.com/lmadem/4X4-Router/assets/93139766/992300cc-549f-473e-b75c-44b971e75865)
 
+   ![image](https://github.com/lmadem/4X4-Router/assets/93139766/e7a52452-285f-4416-a7f8-b96c96d4f455)
 
    #### New_Test8 EDA Result
 
+   ![image](https://github.com/lmadem/4X4-Router/assets/93139766/522379e8-7ad0-489c-a800-1fde39b16d7d)
 
+   ![image](https://github.com/lmadem/4X4-Router/assets/93139766/c58813dd-3405-41a0-bbc7-889a49707ed4)
 
    #### New_Test9 EDA Result
 
+   ![image](https://github.com/lmadem/4X4-Router/assets/93139766/2181826a-fb34-4743-8546-c570b1c1011d)
 
+   ![image](https://github.com/lmadem/4X4-Router/assets/93139766/974b622c-4e80-4645-859a-e441ba3b10ea)
 
    #### New_Test10 EDA Result
 
+   ![image](https://github.com/lmadem/4X4-Router/assets/93139766/32739840-a27e-4039-81fc-8b985550227b)
 
+   ![image](https://github.com/lmadem/4X4-Router/assets/93139766/c424c1e9-f576-48f9-ab66-193146bd3ddb)
 
 </details>
 </details>
