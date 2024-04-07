@@ -14,7 +14,8 @@ Verification of 4X4 router in System Verilog. The main intension of this reposit
 
   #### Black Box Design
 
-  ![image](https://github.com/lmadem/4X4-Router/assets/93139766/fe2efd33-3a5a-4bed-96d5-b6be13c28a26)
+  ![image](https://github.com/lmadem/4X4-Router/assets/93139766/b17d4f5a-5f71-459c-b057-f427bcd7fe37)
+
 
   #### Packet Format
 
@@ -26,6 +27,8 @@ Verification of 4X4 router in System Verilog. The main intension of this reposit
   <li> outp_valid indicates start/end of packet at the destination port </li>  
   
   #### I/O Pins
+
+  ![image](https://github.com/lmadem/4X4-Router/assets/93139766/9e6a135e-fd50-4c93-9222-af9b49fcc1f8)
 
 
   #### pins to access Control Registers
