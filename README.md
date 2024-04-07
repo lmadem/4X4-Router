@@ -158,7 +158,7 @@ https://www.edaplayground.com/x/Miur
 
   #### Verification Standards
 
-  <li> Constrained random stimulus, robust generator, multiple drivers, multiple monitors, Out-of-order scoreboard, coverage component and environment </li>
+  <li> Constrained random stimulus, robust generator, multiple drivers, multiple monitors, out-of-order scoreboard, coverage component and environment </li>
 
   #### Simulation Steps
   
