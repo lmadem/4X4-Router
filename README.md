@@ -165,7 +165,7 @@ https://www.edaplayground.com/x/Miur
   <details>
     <summary> SV Environment </summary>
 
-##### Step 1 : UnComment "top.sv", "interface.sv", and "program_test.sv"(lines 3,4,5) in testbench.sv file 
+##### Step 1 : UnComment "top.sv", "interface.sv", and "program_test.sv"(lines 5,6,7) in testbench.sv file 
 
 ##### Step 2 : To run individual tests, please look into the above attached screenshots in EDA Results
 
