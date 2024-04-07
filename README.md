@@ -42,9 +42,9 @@ Verification of 4X4 router in System Verilog. The main intension of this reposit
 
   #### Status Registers
 
-  ![image](https://github.com/lmadem/1X1-Router-/assets/93139766/9b170ef9-f910-4590-bd70-91014c153986)
+  ![image](https://github.com/lmadem/4X4-Router/assets/93139766/0693cf5e-54d7-40f9-a6c7-955a65264756)
 
-
+  <li> Apart from the above mentioned status registers, the DUT has other status registers. Please look into the "router.sv" file for further information </li>
   <li> This router 4X4 is designed in system verilog. Please check out the file "router.sv" </li>
   
 </details>
@@ -54,7 +54,7 @@ Verification of 4X4 router in System Verilog. The main intension of this reposit
 
   #### The verification plan for Router 4X4 
 
-  <li> The idea is to build an robust verification environment in system verilog which can handle various testcases. The testcases has basic functionality checks, functional coverage hits, covering corner cases, erroneous cases, and error-injection checks</li>
+  <li> The idea is to build a robust verification environment in system verilog which can handle various testcases. The testcases has basic functionality checks, functional coverage hits, covering corner cases, erroneous cases, and error-injection checks</li>
 
   #### Test Plan
 
